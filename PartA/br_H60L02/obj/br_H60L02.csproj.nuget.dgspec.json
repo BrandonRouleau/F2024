@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2033645\\Desktop\\PartA\\br_H60L02\\br_H60L02.csproj": {}
+    "C:\\Users\\2033645\\Desktop\\F2024\\PartA\\br_H60L02\\br_H60L02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2033645\\Desktop\\PartA\\br_H60L02\\br_H60L02.csproj": {
+    "C:\\Users\\2033645\\Desktop\\F2024\\PartA\\br_H60L02\\br_H60L02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2033645\\Desktop\\PartA\\br_H60L02\\br_H60L02.csproj",
+        "projectUniqueName": "C:\\Users\\2033645\\Desktop\\F2024\\PartA\\br_H60L02\\br_H60L02.csproj",
         "projectName": "br_H60L02",
-        "projectPath": "C:\\Users\\2033645\\Desktop\\PartA\\br_H60L02\\br_H60L02.csproj",
+        "projectPath": "C:\\Users\\2033645\\Desktop\\F2024\\PartA\\br_H60L02\\br_H60L02.csproj",
         "packagesPath": "C:\\Users\\2033645\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2033645\\Desktop\\PartA\\br_H60L02\\obj\\",
+        "outputPath": "C:\\Users\\2033645\\Desktop\\F2024\\PartA\\br_H60L02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2033645\\AppData\\Roaming\\NuGet\\NuGet.Config",
