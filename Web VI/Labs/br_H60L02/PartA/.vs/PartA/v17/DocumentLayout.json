@@ -1,50 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\",
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\views\\people\\cats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\views\\people\\cats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\models\\h60l02efreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\h60l02efreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\views\\people\\gatineau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\views\\people\\gatineau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\models\\personpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\personpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\parta\\br_h60l02\\models\\h60l02efreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\h60l02efreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\views\\people\\gatineau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\views\\people\\gatineau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\models\\personpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\personpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\labs\\br_h60l02\\parta\\br_h60l02\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFD74DC-90C9-4955-B60B-3B2172896182}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,44 +53,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cats.cshtml",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
-              "RelativeDocumentMoniker": "br_H60L02\\Views\\People\\Cats.cshtml",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
-              "RelativeToolTip": "br_H60L02\\Views\\People\\Cats.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T16:56:27.855Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PersonPet.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\PersonPet.cs",
-              "RelativeDocumentMoniker": "br_H60L02\\Models\\PersonPet.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\PersonPet.cs",
-              "RelativeToolTip": "br_H60L02\\Models\\PersonPet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T16:43:44.838Z"
+              "Title": "Cats.cshtml",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Cats.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T16:56:27.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Gatineau.cshtml",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Gatineau.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Gatineau.cshtml",
               "RelativeDocumentMoniker": "br_H60L02\\Views\\People\\Gatineau.cshtml",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Gatineau.cshtml",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Views\\People\\Gatineau.cshtml",
               "RelativeToolTip": "br_H60L02\\Views\\People\\Gatineau.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "br_H60L02\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "br_H60L02\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\City.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\City.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\City.cs",
               "RelativeToolTip": "br_H60L02\\Models\\City.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PetsController.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PetsController.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Controllers\\PetsController.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PetsController.cs",
               "RelativeToolTip": "br_H60L02\\Controllers\\PetsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\CitiesController.cs",
               "RelativeToolTip": "br_H60L02\\Controllers\\CitiesController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,10 +165,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\appsettings.json",
+              "RelativeDocumentMoniker": "br_H60L02\\appsettings.json",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\appsettings.json",
+              "RelativeToolTip": "br_H60L02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T18:11:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonPet.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\PersonPet.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Models\\PersonPet.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\PersonPet.cs",
+              "RelativeToolTip": "br_H60L02\\Models\\PersonPet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:43:44.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Controllers\\PeopleController.cs",
               "RelativeToolTip": "br_H60L02\\Controllers\\PeopleController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,39 +201,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Program.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Program.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Program.cs",
               "RelativeToolTip": "br_H60L02\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:12:24.901Z"
+              "WhenOpened": "2024-08-26T18:12:24.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\appsettings.json",
-              "RelativeDocumentMoniker": "br_H60L02\\appsettings.json",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\appsettings.json",
-              "RelativeToolTip": "br_H60L02\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T18:11:23.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "H60l02efreviewContext.cs",
-              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\H60l02efreviewContext.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\H60l02efreviewContext.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\H60l02efreviewContext.cs",
-              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartA\\br_H60L02\\Models\\H60l02efreviewContext.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Labs\\br_H60L02\\PartA\\br_H60L02\\Models\\H60l02efreviewContext.cs",
               "RelativeToolTip": "br_H60L02\\Models\\H60l02efreviewContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCcAAAAhAAAA",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:10:30.994Z"
+              "WhenOpened": "2024-08-26T18:10:30.994Z",
+              "EditorCaption": ""
             }
           ]
         }

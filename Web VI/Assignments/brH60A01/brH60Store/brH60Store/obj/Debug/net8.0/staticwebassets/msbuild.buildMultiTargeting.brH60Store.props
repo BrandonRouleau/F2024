@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\brH60Store.props" />
+</Project>

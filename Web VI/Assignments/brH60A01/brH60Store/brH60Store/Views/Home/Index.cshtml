@@ -1,0 +1,14 @@
+﻿@model IEnumerable<brH60Store.Models.ProductCategory>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="slideshow">
+    @foreach (var item in Model)
+    {
+        <a class="slideshow-link" asp-area="" asp-controller="ProductCategories" asp-action="@item.ProdCat">
+            <img src="@item.Image" class="slideshow-image"/>
+        </a>
+    }
+</div>
+<script src="~/js/index.js"></script>
