@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\views\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\views\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\views\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\views\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|solutionrelative:brh60store\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4901E91D-0565-4EE3-964C-D26FC31FAAA8}|brH60Store\\brH60Store.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\assignments\\brh60a01\\brh60store\\brh60store\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,33 +106,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "brH60Store\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "brH60Store\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T14:22:43.776Z",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "brH60Store\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "brH60Store\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T14:24:26.062Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "brH60Store\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "brH60Store\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T01:03:30.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "brH60Store\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "brH60Store\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwKIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T14:45:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\ProductCategories\\Index.cshtml",
               "RelativeDocumentMoniker": "brH60Store\\Views\\ProductCategories\\Index.cshtml",
@@ -140,8 +154,7 @@
               "RelativeToolTip": "brH60Store\\Views\\ProductCategories\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T01:03:24.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T01:03:24.175Z"
             },
             {
               "$type": "Document",
@@ -153,8 +166,7 @@
               "RelativeToolTip": "brH60Store\\Controllers\\ProductCategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T01:00:13.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T01:00:13.389Z"
             },
             {
               "$type": "Document",
@@ -166,8 +178,7 @@
               "RelativeToolTip": "brH60Store\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAAwFwAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T00:59:40.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T00:59:40.623Z"
             },
             {
               "$type": "Document",
@@ -179,12 +190,11 @@
               "RelativeToolTip": "brH60Store\\Models\\H60assignmentDbBrContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T23:26:11.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T23:26:11.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\js\\index.js",
               "RelativeDocumentMoniker": "brH60Store\\wwwroot\\js\\index.js",
@@ -192,8 +202,7 @@
               "RelativeToolTip": "brH60Store\\wwwroot\\js\\index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-06T14:43:30.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T14:43:30.139Z"
             },
             {
               "$type": "Document",
@@ -205,34 +214,19 @@
               "RelativeToolTip": "brH60Store\\Migrations\\20240906152052_initalDB.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T15:20:52.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "brH60Store\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "brH60Store\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-06T14:45:02.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T15:20:52.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "brH60Store\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "brH60Store\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-06T14:24:26.062Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "brH60Store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "brH60Store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:22:43.776Z"
             },
             {
               "$type": "Document",
@@ -244,8 +238,7 @@
               "RelativeToolTip": "brH60Store\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T14:28:44.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T14:28:44.965Z"
             },
             {
               "$type": "Document",
@@ -257,8 +250,7 @@
               "RelativeToolTip": "brH60Store\\Models\\ProductCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T14:40:44.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T14:40:44.992Z"
             },
             {
               "$type": "Document",
@@ -270,8 +262,7 @@
               "RelativeToolTip": "brH60Store\\appsettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAACRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T23:09:38.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T23:09:38.453Z"
             },
             {
               "$type": "Document",
@@ -283,8 +274,7 @@
               "RelativeToolTip": "brH60Store\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T23:09:26.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T23:09:26.491Z"
             }
           ]
         }

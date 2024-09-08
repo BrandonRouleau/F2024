@@ -17,9 +17,48 @@ html {
   min-height: 100%;
 }
 
-.header > * {
-    position: sticky;
+header {
+    width: 100vw;
+    height: 16.5vh;
+    position: fixed;
     background-color: transparent;
+    display: grid;
+    grid-template-rows: 66% 34%;
+    border-bottom: solid gray 1px;
+    z-index: 6;
+}
+
+nav {
+    width: 100vw;
+    height: 18vh;
+    color: white;
+    background-color: transparent !important;
+    border-top: solid gray 1px;
+}
+
+li {
+    color: white;
+}
+
+.nav-list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.container-fluid {
+    background-color: transparent !important;
 }
 
 body {
@@ -39,4 +78,107 @@ body {
 .slideshow-image {
     width: 100%;
     height: 100%;
+}
+
+.header-title {
+    font-family: 'Bona nova SC';
+    text-decoration: none;
+    color: white;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header-title:hover {
+    color: gray;
+}
+
+.header-top {
+    display: flex;
+    z-index: 4;
+}
+
+.header-top-section {
+    width: 33.333%;
+    height: 100%;
+}
+
+#header-top-section-1 {
+    display: flex;
+    align-items: center;
+}
+
+.menu-container {
+    width: 99.1vw;
+    height: 100vh;
+    left: -99.1vw;
+    position: fixed;
+    background-color: black;
+    opacity: 70%;
+    z-index: 3;
+    transition: left 0.4s ease;
+}
+
+.menu-container.active {
+    left: 0;
+}
+
+#menu-spacer {
+    height: 16.5vh;
+}
+
+.menu-list {
+    display: flex;
+    padding-left: 0;
+    list-style-type: none;
+    flex-direction: column;
+}
+
+.menu-list-item {
+    width: 30vw;
+    height: 6.5vh;
+    display: flex;
+    align-items: center
+}
+
+.menu-list-item:hover {
+    background-color: gray;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 370;
+    padding-left: 3vw;
+}
+
+.menu-link:hover {
+    color: white;
+}
+
+.menu-icon {
+    width: 10vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    margin-left: 3vw;
+}
+
+.menu-icon-outside {
+    width: 2vw;
+    height: 3px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.menu-icon-middle {
+    width: 2vw;
+    height: 3px;
+    border-radius: 16px;
+    background-color: white;
 }
