@@ -1,67 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\",
+  "WorkspaceRootPath": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\migrations\\20240830185324_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\migrations\\20240830185324_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\migrations\\20240830185324_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830185138_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830185105_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830184945_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830184843_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830184715_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830184607_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830184443_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830183935_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830183756_addRating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:br_H60L02\\Migrations\\20240830183115_initialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\brandon\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|c:\\users\\2033645\\desktop\\f2024\\web vi\\br_h60l02\\partb\\br_h60l02\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{813A1F75-DCDB-4FA4-A628-0210E7242481}|br_H60L02\\br_H60L02.csproj|solutionrelative:br_h60l02\\models\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,65 +82,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "20240830185324_addRating.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185324_addRating.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185324_addRating.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830185324_addRating.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185324_addRating.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185324_addRating.cs",
               "RelativeToolTip": "br_H60L02\\Migrations\\20240830185324_addRating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:53:25.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T18:53:25.064Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "20240830185105_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830185105_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185105_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830185105_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:51:06.216Z"
@@ -140,9 +117,9 @@
               "DocumentIndex": 5,
               "Title": "20240830184945_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830184945_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184945_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830184945_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:49:45.874Z"
@@ -152,9 +129,9 @@
               "DocumentIndex": 6,
               "Title": "20240830184843_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830184843_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184843_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830184843_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:48:43.507Z"
@@ -164,9 +141,9 @@
               "DocumentIndex": 7,
               "Title": "20240830184715_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830184715_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184715_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830184715_addRating.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:47:15.458Z"
@@ -175,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "br_H60L02\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +164,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovieContext.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieContext.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\MovieContext.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieContext.cs",
               "RelativeToolTip": "br_H60L02\\Models\\MovieContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCUAAABYAAAAAAAAAA==",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:15:37.493Z",
               "EditorCaption": ""
@@ -200,23 +177,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Genre.cs",
               "RelativeToolTip": "br_H60L02\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:11:50.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T18:11:50.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20240830185138_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830185138_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830185138_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830185138_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:51:38.247Z"
@@ -226,9 +202,9 @@
               "DocumentIndex": 9,
               "Title": "20240830184607_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830184607_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184607_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830184607_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:46:07.486Z"
@@ -238,9 +214,9 @@
               "DocumentIndex": 10,
               "Title": "20240830184443_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830184443_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830184443_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830184443_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:44:43.911Z"
@@ -250,9 +226,9 @@
               "DocumentIndex": 13,
               "Title": "20240830183935_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830183935_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183935_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830183935_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:39:36.052Z"
@@ -262,9 +238,9 @@
               "DocumentIndex": 14,
               "Title": "20240830183756_addRating.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830183756_addRating.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183756_addRating.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830183756_addRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:37:56.998Z"
@@ -273,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Program.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Program.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Program.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Program.cs",
               "RelativeToolTip": "br_H60L02\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,9 +262,9 @@
               "DocumentIndex": 16,
               "Title": "20240830183115_initialDB.cs",
               "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs",
+              "RelativeDocumentMoniker": "br_H60L02\\Migrations\\20240830183115_initialDB.cs",
               "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Migrations\\20240830183115_initialDB.cs",
+              "RelativeToolTip": "br_H60L02\\Migrations\\20240830183115_initialDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:31:15.268Z"
@@ -297,9 +273,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "MovieGenre.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieGenre.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\MovieGenre.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\MovieGenre.cs",
               "RelativeToolTip": "br_H60L02\\Models\\MovieGenre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,9 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "br_H60L02\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\Models\\Movie.cs",
               "RelativeToolTip": "br_H60L02\\Models\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,9 +297,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\appsettings.json",
               "RelativeDocumentMoniker": "br_H60L02\\appsettings.json",
-              "ToolTip": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\appsettings.json",
+              "ToolTip": "C:\\Users\\2033645\\Desktop\\F2024\\Web VI\\br_H60L02\\PartB\\br_H60L02\\appsettings.json",
               "RelativeToolTip": "br_H60L02\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

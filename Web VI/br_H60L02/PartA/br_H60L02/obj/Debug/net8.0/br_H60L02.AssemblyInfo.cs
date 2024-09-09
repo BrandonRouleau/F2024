@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("br_H60L02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+986eec42160c3e5e92cb4745bed1682e3852da49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4a59ce8a4686a8b129764ae48d0f0bc6f6cda7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("br_H60L02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("br_H60L02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

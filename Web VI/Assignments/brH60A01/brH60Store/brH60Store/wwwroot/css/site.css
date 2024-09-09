@@ -182,3 +182,45 @@ body {
     border-radius: 16px;
     background-color: white;
 }
+
+.info-section {
+    width: 99.1vw;
+    height: 60vh;
+    background-color: black;
+}
+
+.prod-cat-main {
+    width: 99.1vw;
+    height: fit-content;
+    background-color: rgb(35, 35, 35)
+}
+
+.prod-cat-header {
+    height: 45vh;
+    width: 99.1vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 25vh;
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.prod-cat-container {
+    width: 99.1vw;
+    height: fit-content;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.prod-cat-card {
+    width: 33vw;
+    height: 55vh;
+}
+
+.prod-cat-card-img {
+    width: 33vw;
+    height: 55vh;
+}
+
+
