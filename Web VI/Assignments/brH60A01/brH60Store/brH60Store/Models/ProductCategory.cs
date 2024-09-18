@@ -9,7 +9,7 @@ public partial class ProductCategory
 
     public string ProdCat { get; set; } = null!;
 
-    public string Image {  get; set; } = null!;
+    public string? Image {  get; set; } = null!;
 
     public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }

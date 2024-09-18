@@ -51,6 +51,12 @@
                 <li class="menu-list-item">
                     <a class="menu-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
                 </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Products" asp-action="ProductsByCategory">Products by Category</a>
+                </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Products" asp-action="create">Create product</a>
+                </li>
             </ul>
         </div>
     </header>
@@ -61,6 +67,7 @@
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - brH60Store - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <p>All images featured on this website are the property of the Ibanez company</p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

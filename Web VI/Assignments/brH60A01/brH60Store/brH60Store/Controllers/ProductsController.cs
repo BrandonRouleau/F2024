@@ -6,48 +6,47 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using brH60Store.Models;
+using brH60Store.DAL;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
+using Microsoft.CodeAnalysis;
+using Microsoft.Build.Framework;
 
 namespace brH60Store.Controllers
 {
     public class ProductsController : Controller
     {
-        private readonly H60assignmentDbBrContext _context;
+        private readonly IProductRepository _storeRepository;
 
-        public ProductsController(H60assignmentDbBrContext context)
+        public ProductsController(IProductRepository storeRepo)
         {
-            _context = context;
+            _storeRepository = storeRepo;
         }
 
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            var h60assignmentDbBrContext = _context.Products.Include(p => p.ProdCat);
-            return View(await h60assignmentDbBrContext.ToListAsync());
+            return View(_storeRepository.GetProducts());
         }
 
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var product = await _context.Products
-                .Include(p => p.ProdCat)
-                .FirstOrDefaultAsync(m => m.ProductId == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
+            var product = _storeRepository.GetProductById(id);
+            if (product == null) return NotFound();
 
             return View(product);
+        }
+
+        public IActionResult ProductsByCategory() {
+            return View(_storeRepository.GetProductsByCategory());
         }
 
         // GET: Products/Create
         public IActionResult Create()
         {
-            ViewData["ProdCatId"] = new SelectList(_context.ProductCategories, "CategoryId", "CategoryId");
+            ViewData["ProdCatId"] = _storeRepository.GetCategories();
             return View();
         }
 
@@ -56,32 +55,33 @@ namespace brH60Store.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductId,ProdCatId,Description,Manufacturer,Stock,BuyPrice,SellPrice, Image")] Product product)
+        public async Task<IActionResult> Create([Bind("ProductId,ProdCatId,Description,Manufacturer,Stock,BuyPrice,SellPrice,Image")] Product product)
         {
+            if(ModelState.ContainsKey("ProdCat")) {
+                ModelState.Remove("ProdCat");
+            }
             if (ModelState.IsValid)
             {
-                _context.Add(product);
-                await _context.SaveChangesAsync();
+                if(product.Image == null) {
+                    product.Image = "./img/Default-img.jfif";
+                }
+                _storeRepository.InsertProduct(product);
+                await _storeRepository.Save();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProdCatId"] = new SelectList(_context.ProductCategories, "CategoryId", "CategoryId", product.ProdCatId);
+            ViewData["ProdCatId"] = _storeRepository.GetCategoriesWithProduct(product);
             return View(product);
         }
 
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-            ViewData["ProdCatId"] = new SelectList(_context.ProductCategories, "CategoryId", "CategoryId", product.ProdCatId);
+            var product = _storeRepository.GetProductById(id);
+            if (product == null) return NotFound();
+
+            ViewData["ProdCatId"] = _storeRepository.GetCategoriesWithProduct(product);
             return View(product);
         }
 
@@ -90,23 +90,28 @@ namespace brH60Store.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ProductId,ProdCatId,Description,Manufacturer,Stock,BuyPrice,SellPrice, Image")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("ProductId,ProdCatId,Description,Manufacturer,Stock,BuyPrice,SellPrice,Image")] Product product)
         {
             if (id != product.ProductId)
             {
                 return NotFound();
             }
-
+            if (ModelState.ContainsKey("ProdCat")) {
+                ModelState.Remove("ProdCat");
+            }
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(product);
-                    await _context.SaveChangesAsync();
+                    if (product.Image == null) {
+                        product.Image = "./img/Default-img.jfif";
+                    }
+                    _storeRepository.UpdateProduct(product);
+                    await _storeRepository.Save();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(product.ProductId))
+                    if (!_storeRepository.ProductExists(product.ProductId))
                     {
                         return NotFound();
                     }
@@ -117,25 +122,61 @@ namespace brH60Store.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProdCatId"] = new SelectList(_context.ProductCategories, "CategoryId", "CategoryId", product.ProdCatId);
+            ViewData["ProdCatId"] = _storeRepository.GetCategoriesWithProduct(product);
+            return View(product);
+        }
+
+        public async Task<IActionResult> UpdateStock(int? id) {
+            if (id == null) return NotFound();
+
+            var product = _storeRepository.GetProductById(id);
+            if (product == null) return NotFound();
+
+            ViewData["ProdCatId"] = _storeRepository.GetCategoriesWithProduct(product);
+            return View(product);
+        }
+
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> UpdateStock(int id, [Bind("ProductId,ProdCatId,Description,Manufacturer,Stock,BuyPrice,SellPrice,Image")] Product product) {
+            if (id != product.ProductId) {
+                return NotFound();
+            }
+            if (ModelState.ContainsKey("ProdCat")) {
+                ModelState.Remove("ProdCat");
+            }
+
+            if (ModelState.IsValid) {
+                try {
+                    Product productUpdate = _storeRepository.GetProductById(product.ProductId);
+                    if (productUpdate.updateStock(product.Stock)) {
+                        _storeRepository.UpdateProduct(productUpdate);
+                        await _storeRepository.Save();
+                    }
+                    else {
+                        return View(product);
+                    }
+                } catch (DbUpdateConcurrencyException) {
+                    if (!_storeRepository.ProductExists(product.ProductId)) {
+                        return NotFound();
+                    } else {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            ViewData["ProdCatId"] = _storeRepository.GetCategoriesWithProduct(product);
             return View(product);
         }
 
         // GET: Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var product = await _context.Products
-                .Include(p => p.ProdCat)
-                .FirstOrDefaultAsync(m => m.ProductId == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
+            var product = _storeRepository.GetProductById(id);
+            if (product == null) return NotFound();
 
             return View(product);
         }
@@ -145,19 +186,14 @@ namespace brH60Store.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var product = await _context.Products.FindAsync(id);
+            var product = _storeRepository.GetProductById(id);
             if (product != null)
             {
-                _context.Products.Remove(product);
+                _storeRepository.DeleteProduct(product);
             }
-
-            await _context.SaveChangesAsync();
+            await _storeRepository.Save();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ProductExists(int id)
-        {
-            return _context.Products.Any(e => e.ProductId == id);
-        }
     }
 }

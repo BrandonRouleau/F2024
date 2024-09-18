@@ -6,40 +6,40 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using brH60Store.Models;
+using brH60Store.DAL;
 
 namespace brH60Store.Controllers
 {
     public class ProductCategoriesController : Controller
     {
-        private readonly H60assignmentDbBrContext _context;
+        private readonly IProductCategoryRepository _storeRepository;
 
-        public ProductCategoriesController(H60assignmentDbBrContext context)
-        {
-            _context = context;
+        public ProductCategoriesController(IProductCategoryRepository storeRepo) {
+            _storeRepository = storeRepo;
         }
 
         // GET: ProductCategories
         public async Task<IActionResult> Index()
         {
-            return View(await _context.ProductCategories.ToListAsync());
+            return View(_storeRepository.GetProductCategories());
         }
 
         // GET: ProductCategories/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var productCategory = await _context.ProductCategories
-                .FirstOrDefaultAsync(m => m.CategoryId == id);
-            if (productCategory == null)
-            {
-                return NotFound();
-            }
+            var productCategory = _storeRepository.GetProductCategoryById(id);
+            if (productCategory == null) return NotFound();
 
             return View(productCategory);
+        }
+
+        public async Task<IActionResult> CategoryProducts(int? id) {
+            if (id == null) return NotFound();
+
+            var products = _storeRepository.GetCategoryProducts(id);
+            return View(products);
         }
 
         // GET: ProductCategories/Create
@@ -53,12 +53,15 @@ namespace brH60Store.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CategoryId,ProdCat, Image")] ProductCategory productCategory)
+        public async Task<IActionResult> Create([Bind("CategoryId,ProdCat,Image")] ProductCategory productCategory)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(productCategory);
-                await _context.SaveChangesAsync();
+                if (productCategory.Image == null) {
+                    productCategory.Image = "./img/Default-img.jfif";
+                }
+                _storeRepository.InsertProductCategory(productCategory);
+                await _storeRepository.Save();
                 return RedirectToAction(nameof(Index));
             }
             return View(productCategory);
@@ -72,7 +75,7 @@ namespace brH60Store.Controllers
                 return NotFound();
             }
 
-            var productCategory = await _context.ProductCategories.FindAsync(id);
+            var productCategory = _storeRepository.GetProductCategoryById(id);
             if (productCategory == null)
             {
                 return NotFound();
@@ -96,12 +99,15 @@ namespace brH60Store.Controllers
             {
                 try
                 {
-                    _context.Update(productCategory);
-                    await _context.SaveChangesAsync();
+                    if(productCategory.Image == null) {
+                        productCategory.Image = "./img/Default-img.jfif";
+                    }
+                    _storeRepository.UpdateProductCategory(productCategory);
+                    await _storeRepository.Save();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductCategoryExists(productCategory.CategoryId))
+                    if (!_storeRepository.ProductCategoryExists(productCategory.CategoryId))
                     {
                         return NotFound();
                     }
@@ -118,17 +124,10 @@ namespace brH60Store.Controllers
         // GET: ProductCategories/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            var productCategory = await _context.ProductCategories
-                .FirstOrDefaultAsync(m => m.CategoryId == id);
-            if (productCategory == null)
-            {
-                return NotFound();
-            }
+            var productCategory = _storeRepository.GetProductCategoryById(id);
+            if (productCategory == null) return NotFound();
 
             return View(productCategory);
         }
@@ -138,19 +137,11 @@ namespace brH60Store.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var productCategory = await _context.ProductCategories.FindAsync(id);
-            if (productCategory != null)
-            {
-                _context.ProductCategories.Remove(productCategory);
-            }
+            var productCategory = _storeRepository.GetProductCategoryById(id);
+            _storeRepository.DeleteProductCategory(productCategory);
 
-            await _context.SaveChangesAsync();
+            await _storeRepository.Save();
             return RedirectToAction(nameof(Index));
-        }
-
-        private bool ProductCategoryExists(int id)
-        {
-            return _context.ProductCategories.Any(e => e.CategoryId == id);
         }
     }
 }

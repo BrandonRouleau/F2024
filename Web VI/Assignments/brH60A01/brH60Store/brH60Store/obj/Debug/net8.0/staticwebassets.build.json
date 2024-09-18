@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "faD/0o4+VPaFVmxCoWsxkn4QTrZWK2GWLeoQZJrXP5w=",
+  "Hash": "ff7fyG4iibDuR7iSy2A6JXm9zaV4Cs9Jsr8Cl+Tu3gc=",
   "Source": "brH60Store",
   "BasePath": "_content/brH60Store",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\img\\Default-img.jfif",
+      "SourceId": "brH60Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\",
+      "BasePath": "_content/brH60Store",
+      "RelativePath": "img/Default-img.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Default-img.jfif"
     },
     {
       "Identity": "C:\\Users\\Brandon\\Desktop\\F2024\\Web VI\\Assignments\\brH60A01\\brH60Store\\brH60Store\\wwwroot\\img\\rotating-banner_1.jpg",

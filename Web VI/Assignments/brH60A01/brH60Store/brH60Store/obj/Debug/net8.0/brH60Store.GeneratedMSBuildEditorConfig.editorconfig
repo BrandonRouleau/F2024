@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/ProductCategories/CategoryProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcQ2F0ZWdvcnlQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/ProductCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +76,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/Products/ProductsByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdHNCeUNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/Products/UpdateStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlU3RvY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Brandon/Desktop/F2024/Web VI/Assignments/brH60A01/brH60Store/brH60Store/Views/Shared/Error.cshtml]

@@ -12,9 +12,23 @@
         @foreach (var item in Model)
         {
             <div class="prod-cat-card">
-                <img src="@Html.DisplayFor(modelItem => item.Image)" class="prod-cat-card-img"/>
+                <a asp-area="" asp-controller="ProductCategories" asp-action="CategoryProducts" asp-route-id="@item.CategoryId">
+                    <img src="@Html.DisplayFor(modelItem => item.Image)" class="prod-cat-card-img" />
+                </a>
+                <div class="prod-cat-card-links">
+                    <a asp-area="" asp-controller="ProductCategories" asp-action="Edit" asp-route-id="@item.CategoryId">Edit</a>
+                    <a asp-area="" asp-controller="ProductCategories" asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
+                </div>
             </div>
         }
+        <div class="prod-cat-card" id="add-category-card">
+            <a class="add-category-link" asp-area="" asp-controller="ProductCategories" asp-action="Create">
+                <div id="add-category-btn">
+                    <div id="add-vertical"></div>
+                    <div id="add-horizontal"></div>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
 

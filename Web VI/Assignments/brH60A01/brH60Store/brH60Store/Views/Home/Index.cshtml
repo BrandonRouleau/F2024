@@ -6,7 +6,7 @@
 <div class="slideshow">
     @foreach (var item in Model)
     {
-        <a class="slideshow-link" asp-area="" asp-controller="ProductCategories" asp-action="@item.ProdCat">
+        <a class="slideshow-link" asp-area="" asp-controller="ProductCategories" asp-action="CategoryProducts" asp-route-id="@item.CategoryId">
             <img src="@item.Image" class="slideshow-image"/>
         </a>
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("brH60Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e893ee60ef65d215b2729986b8818e94837821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d9195d16c670e104b053b54e7aba6b784bb206")]
 [assembly: System.Reflection.AssemblyProductAttribute("brH60Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("brH60Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

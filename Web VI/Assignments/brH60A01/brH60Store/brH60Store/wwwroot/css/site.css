@@ -15,6 +15,11 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  background-color: gray;
+}
+
+body {
+    background-color: gray;
 }
 
 header {
@@ -216,6 +221,7 @@ body {
 .prod-cat-card {
     width: 33vw;
     height: 55vh;
+    position: relative;
 }
 
 .prod-cat-card-img {
@@ -223,4 +229,56 @@ body {
     height: 55vh;
 }
 
+#add-category-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-category-link {
+    width: 5vw;
+    height: 5vw;
+}
+
+#add-category-btn {
+    width: 5vw;
+    height: 5vw;
+    background-color: transparent;
+    border-radius: 50%;
+    border: solid white 10px;
+}
+
+#add-vertical {
+    background-color: black;
+    height: 4vw;
+    width: 0.5vw;
+    border-radius: 10px;
+    left: 2.5vw;
+}
+
+#add-horizontal {
+    background-color: black;
+    height: 0.5vw;
+    width: 4vw;
+    border-radius: 10px;
+    bottom: 2.5vw;
+    z-index: 2;
+}
+
+#prod-cat-links {
+    z-index: 5;
+}
+
+.prod-cat-card-links {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    bottom: 2vh;
+}
+
+.padding {
+    height: 30vh;
+    width: 99.1vw;
+}
 
