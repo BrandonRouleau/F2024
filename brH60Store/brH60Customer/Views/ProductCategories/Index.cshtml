@@ -1,0 +1,23 @@
+﻿@model IEnumerable<brH60Customer.Models.ProductCategory>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="prod-cat-main">
+    <div class="prod-cat-header">
+        CATEGORIES
+    </div>
+    <div class="prod-cat-container">
+        @foreach (var item in Model)
+        {
+            <div class="prod-cat-card">
+                <a asp-area="" asp-controller="ProductCategories" asp-action="CategoryProducts" asp-route-id="@item.CategoryId">
+@*                     <img src="@Html.DisplayFor(modelItem => item.Image)" class="prod-cat-card-img" /> *@
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+

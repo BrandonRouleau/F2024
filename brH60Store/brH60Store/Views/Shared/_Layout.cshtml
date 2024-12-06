@@ -1,0 +1,89 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - brH60Store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/brH60Store.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div class="header-top-section" id="header-top-section-1">
+                <button class="menu-icon" onclick="menuExpand()">
+                    <div class="menu-icon-outside"></div>
+                    <div class="menu-icon-middle"></div>
+                    <div class="menu-icon-outside"></div>
+                </button>
+            </div>
+            <div class="header-top-section" id="header-top-section-2">
+                <a class="header-title" asp-area="" asp-controller="Home" asp-action="Index">BR</a>
+            </div>
+            <div class="header-top-section" id="header-top-section-3">
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
+        <nav>
+            <div class="nav-list-container">
+                <ul class="nav-list">
+                    <li class="nav-list-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-list-item">
+                        <a class="nav-link" asp-area="" asp-controller="ProductCategories" asp-action="Index">Categories</a>
+                    </li>
+                    <li class="nav-list-item">
+                        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                    </li>
+                    @if (SignInManager.IsSignedIn(User)) {
+                        <li class="nav-list-item">
+                            <a class="nav-link" asp-area="" asp-controller="Customers" asp-action="Index">Customers</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </nav>
+        <div class="menu-container">
+            <div id="menu-spacer"></div>
+            <ul class="menu-list">
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="ProductCategories" asp-action="Index">Categories</a>
+                </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Products" asp-action="ProductsByCategory">Products by Category</a>
+                </li>
+                <li class="menu-list-item">
+                    <a class="menu-link" asp-area="" asp-controller="Products" asp-action="create">Create product</a>
+                </li>
+            </ul>
+        </div>
+
+    </header>
+    <main role="main" class="pb-3">
+                @RenderBody()
+    </main>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - brH60Store - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <p>All images featured on this website are the property of the Ibanez company</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+                @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

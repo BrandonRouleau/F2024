@@ -1,0 +1,287 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: gray;
+}
+
+body {
+    background-color: gray;
+}
+
+header {
+    width: 100vw;
+    height: 16.5vh;
+    position: fixed;
+    background-color: transparent;
+    display: grid;
+    grid-template-rows: 66% 34%;
+    border-bottom: solid gray 1px;
+    z-index: 6;
+}
+
+nav {
+    width: 100vw;
+    height: 18vh;
+    color: white;
+    background-color: transparent !important;
+    border-top: solid gray 1px;
+}
+
+li {
+    color: white;
+}
+
+.nav-list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.container-fluid {
+    background-color: transparent !important;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.slideshow {
+    width: 99.1vw;
+    height: 110vh;
+    background-color: gray;
+}
+
+.slideshow-link {
+    width: 100%;
+    height: 100%;
+}
+
+.slideshow-image {
+    width: 100%;
+    height: 100%;
+}
+
+.header-title {
+    font-family: 'Bona nova SC';
+    text-decoration: none;
+    color: white;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+    .header-title:hover {
+        color: gray;
+    }
+
+.header-top {
+    display: flex;
+    z-index: 4;
+}
+
+.header-top-section {
+    width: 33.333%;
+    height: 100%;
+}
+
+#header-top-section-1 {
+    display: flex;
+    align-items: center;
+}
+
+.menu-container {
+    width: 99.1vw;
+    height: 100vh;
+    left: -99.1vw;
+    position: fixed;
+    background-color: black;
+    opacity: 70%;
+    z-index: 3;
+    transition: left 0.4s ease;
+}
+
+    .menu-container.active {
+        left: 0;
+    }
+
+#menu-spacer {
+    height: 16.5vh;
+}
+
+.menu-list {
+    display: flex;
+    padding-left: 0;
+    list-style-type: none;
+    flex-direction: column;
+}
+
+.menu-list-item {
+    width: 30vw;
+    height: 6.5vh;
+    display: flex;
+    align-items: center
+}
+
+    .menu-list-item:hover {
+        background-color: gray;
+    }
+
+.menu-link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 370;
+    padding-left: 3vw;
+}
+
+    .menu-link:hover {
+        color: white;
+    }
+
+.menu-icon {
+    width: 10vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    margin-left: 3vw;
+}
+
+.menu-icon-outside {
+    width: 2vw;
+    height: 3px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.menu-icon-middle {
+    width: 2vw;
+    height: 3px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.info-section {
+    width: 99.1vw;
+    height: 60vh;
+    background-color: black;
+}
+
+.prod-cat-main {
+    width: 99.1vw;
+    height: fit-content;
+    background-color: gray;
+    margin-bottom: 9vh;
+}
+
+.prod-cat-header {
+    height: 45vh;
+    width: 99.1vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 25vh;
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.prod-cat-container {
+    width: 99.1vw;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.prod-cat-card {
+    background-color: rgb(35, 35, 35);
+    border: solid 1px gray;
+    width: 33vw;
+    height: 55vh;
+    position: relative;
+}
+
+.prod-cat-card-img {
+    width: 33vw;
+    height: 55vh;
+}
+
+#add-category-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-category-link {
+    width: 5vw;
+    height: 5vw;
+}
+
+#add-category-btn {
+    width: 5vw;
+    height: 5vw;
+    background-color: transparent;
+    border-radius: 50%;
+    border: solid white 10px;
+}
+
+#add-vertical {
+    background-color: black;
+    height: 4vw;
+    width: 0.5vw;
+    border-radius: 10px;
+    left: 2.5vw;
+}
+
+#add-horizontal {
+    background-color: black;
+    height: 0.5vw;
+    width: 4vw;
+    border-radius: 10px;
+    bottom: 2.5vw;
+    z-index: 2;
+}
+
+#prod-cat-links {
+    z-index: 5;
+}
+
+.prod-cat-card-links {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    bottom: 2vh;
+}
+
+.padding {
+    height: 30vh;
+    width: 99.1vw;
+}
